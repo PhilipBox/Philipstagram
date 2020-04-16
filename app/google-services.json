@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922916624021",
+    "firebase_url": "https://philipstagram-64b78.firebaseio.com",
+    "project_id": "philipstagram-64b78",
+    "storage_bucket": "philipstagram-64b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922916624021:android:9d5cf43503b5ce3216ed9c",
+        "android_client_info": {
+          "package_name": "org.techtown.philipstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922916624021-ejail5c7f5fn5l29amd7ejimjv4844nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.philipstagram",
+            "certificate_hash": "1f5f3408a73fc60dc858d06c7d2e74924942ff2b"
+          }
+        },
+        {
+          "client_id": "922916624021-qsn8hfghc72ouatv9jqebbn4ahtrdkpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdGNPkPYTU9qLDSIrzL6aFvOpXCeUllAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922916624021-qsn8hfghc72ouatv9jqebbn4ahtrdkpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
